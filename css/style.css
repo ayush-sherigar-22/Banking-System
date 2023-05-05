@@ -8,7 +8,6 @@ body{
     background-color: #8911da;
 }
 
-/* splash screen css starts here  */
 #loading{
     position: fixed;
     width: 100%;
@@ -16,9 +15,7 @@ body{
     background: #e4eff2 url("https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif") no-repeat center center;
     z-index: 99999;
 }
-/* splash screen css ends here  */
 
-/* navbar css starts here  */
 .bg-light{
     background-color: rgb(10, 255, 10)!important;
 }
@@ -41,9 +38,7 @@ body{
     color: #000000!important;
     border-radius: 10%;
 }
-/* navbar css ends here  */
 
-/* here content css starts here  */
 .hero-content{
     height: 100vh;
     color: #ffffff;
@@ -81,9 +76,7 @@ rem
     color: #ffffff!important;
     
 }
-/* here content css starts here  */
 
-/* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
     background-color: #ff8a65;
@@ -110,9 +103,7 @@ rem
     background-color: #017ab6;
     text-decoration: none;
 }
-/* get-started-buttons css end here*/
 
-/* footer css starts here */
 footer{
     background-color:  rgb(10, 255, 10);
     width: 100%;
@@ -134,5 +125,3 @@ footer{
 .f-link i{
     color: #000000;
 }
-
-/* footer css ends here  */
